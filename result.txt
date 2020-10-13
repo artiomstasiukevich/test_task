@@ -1,0 +1,2 @@
+total transactions:1
+average value:59.99
