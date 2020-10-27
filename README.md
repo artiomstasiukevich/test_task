@@ -1,2 +1,2 @@
 # test_task
-Build an run with standart maveb commands
+Build an run with standart maven commands
